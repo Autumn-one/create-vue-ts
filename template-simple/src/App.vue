@@ -4,7 +4,7 @@
 
 <template>
     <div>
-        <h1>开始你的项目</h1>
+        <router-view></router-view>
     </div>
 </template>
 
